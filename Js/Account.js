@@ -7,6 +7,5 @@ class Account {
         this.email;
         this.password;
     }
-    
 
 }
